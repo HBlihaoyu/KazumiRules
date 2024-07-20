@@ -1,0 +1,17 @@
+{
+    "api": "1",
+    "type": "1",
+    "name": "cupfoxcc.com",
+    "version": "0.0.1",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "userAgent": "",
+    "baseURL": "https://cupfoxcc.com/",
+    "searchURL": "https://cupfoxcc.com/chvodsearch/-------------.html?wd=@keyword",
+    "searchList": "//main/div/div[2]/div/div",
+    "searchName": "//div/div[2]/div[1]/h3/a",
+    "searchResult": "//div/div[2]/div[1]/h3/a",
+    "chapterRoads": "//main/div/div[2]/div/div[3]/div",
+    "chapterResult": "//a"
+}
